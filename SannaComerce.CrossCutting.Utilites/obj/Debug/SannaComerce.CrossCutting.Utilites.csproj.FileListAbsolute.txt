@@ -1,0 +1,4 @@
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.CrossCutting.Utilites\bin\Debug\SannaComerce.CrossCutting.Utilites.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.CrossCutting.Utilites\bin\Debug\SannaComerce.CrossCutting.Utilites.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.CrossCutting.Utilites\obj\Debug\SannaComerce.CrossCutting.Utilites.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.CrossCutting.Utilites\obj\Debug\SannaComerce.CrossCutting.Utilites.pdb

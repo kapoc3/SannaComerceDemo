@@ -1,0 +1,16 @@
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\obj\Debug\SannaComerce.Infrastructure.Repositories.Memory.csprojResolveAssemblyReference.cache
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Infrastructure.Repositories.Memory.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Infrastructure.Repositories.Memory.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Domain.Entities.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Infrastructure.Repositories.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Domain.Entities.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Infrastructure.Repositories.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\obj\Debug\SannaComerce.Infrastructure.Repositories.Memory.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\obj\Debug\SannaComerce.Infrastructure.Repositories.Memory.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.Infrastructure.Repositories.Memory.dll.config
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\EntityFramework.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\EntityFramework.SqlServer.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\EntityFramework.xml
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\EntityFramework.SqlServer.xml
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.CrossCutting.Utilites.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories.Memory\bin\Debug\SannaComerce.CrossCutting.Utilites.pdb

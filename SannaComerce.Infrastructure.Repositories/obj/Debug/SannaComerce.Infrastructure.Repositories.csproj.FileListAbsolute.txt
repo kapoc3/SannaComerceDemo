@@ -1,0 +1,7 @@
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\bin\Debug\SannaComerce.Infrastructure.Repositories.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\bin\Debug\SannaComerce.Infrastructure.Repositories.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\bin\Debug\SannaComerce.Domain.Entities.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\bin\Debug\SannaComerce.Domain.Entities.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\obj\Debug\SannaComerce.Infrastructure.Repositories.csprojResolveAssemblyReference.cache
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\obj\Debug\SannaComerce.Infrastructure.Repositories.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Infrastructure.Repositories\obj\Debug\SannaComerce.Infrastructure.Repositories.pdb

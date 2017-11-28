@@ -1,0 +1,9 @@
+﻿@model SannaComerceDemo.Models.ConectionModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Current Conection: @Model.Source</h2>
+<br/>
+@Html.ActionLink("Change Source", "ChangeSource", "Home")

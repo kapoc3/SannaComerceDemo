@@ -1,0 +1,4 @@
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Domain.Entities\bin\Debug\SannaComerce.Domain.Entities.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Domain.Entities\bin\Debug\SannaComerce.Domain.Entities.pdb
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Domain.Entities\obj\Debug\SannaComerce.Domain.Entities.dll
+E:\repository\VisualStudio2015\SannaComerceDemo\SannaComerce.Domain.Entities\obj\Debug\SannaComerce.Domain.Entities.pdb
