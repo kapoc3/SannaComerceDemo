@@ -1,0 +1,2 @@
+Configure the database conection in web.config
+Make a rebuild command in the visual studio for restore the packages of solution
